@@ -5,7 +5,7 @@ This project focuses on detecting fraudulent credit card transactions using mach
 ## 📂 Project Structure
 
 ```bash
-├── creditcard.csv      # Dataset
+├── https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud #dataset
 ├── main.ipynb          # Jupyter Notebook containing analysis and model training
 └── README.md           # Project documentation
 ```
